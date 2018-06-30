@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+
+.lista{
+    text-align: left;
+}
+
+.tabla table{
+  align-items: center !important
+}
